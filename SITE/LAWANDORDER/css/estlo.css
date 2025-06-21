@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'MinhaFonte';
+    src: url('fonts/Roboto-Bold.ttf') format('truetype'); /* Ajuste o caminho conforme necessário */
+}
+
+body {
+    font-family: 'Roboto-Medium', sans-serif; /* Use a fonte no seu projeto */
+}
